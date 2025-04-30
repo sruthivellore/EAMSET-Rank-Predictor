@@ -23,10 +23,6 @@
 
 ```
 EAMSET-Rank-Predictor/
-├── for_year2013.csv
-├── for_year2014.csv
-├── for_year2015.csv
-├── for_year2016.csv
 ├── eamcet_rank.py
 └── README.md
 ```
